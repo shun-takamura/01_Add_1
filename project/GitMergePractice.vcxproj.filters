@@ -24,25 +24,25 @@
     <ClCompile Include="main.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="externals\DirectXTex\imgui\imgui.cpp">
+    <ClCompile Include="externals\imgui\imgui.cpp">
       <Filter>externals\imgui</Filter>
     </ClCompile>
-    <ClCompile Include="externals\DirectXTex\imgui\imgui_demo.cpp">
+    <ClCompile Include="externals\imgui\imgui_demo.cpp">
       <Filter>externals\imgui</Filter>
     </ClCompile>
-    <ClCompile Include="externals\DirectXTex\imgui\imgui_draw.cpp">
+    <ClCompile Include="externals\imgui\imgui_draw.cpp">
       <Filter>externals\imgui</Filter>
     </ClCompile>
-    <ClCompile Include="externals\DirectXTex\imgui\imgui_impl_dx12.cpp">
+    <ClCompile Include="externals\imgui\imgui_impl_dx12.cpp">
       <Filter>externals\imgui</Filter>
     </ClCompile>
-    <ClCompile Include="externals\DirectXTex\imgui\imgui_impl_win32.cpp">
+    <ClCompile Include="externals\imgui\imgui_impl_win32.cpp">
       <Filter>externals\imgui</Filter>
     </ClCompile>
-    <ClCompile Include="externals\DirectXTex\imgui\imgui_tables.cpp">
+    <ClCompile Include="externals\imgui\imgui_tables.cpp">
       <Filter>externals\imgui</Filter>
     </ClCompile>
-    <ClCompile Include="externals\DirectXTex\imgui\imgui_widgets.cpp">
+    <ClCompile Include="externals\imgui\imgui_widgets.cpp">
       <Filter>externals\imgui</Filter>
     </ClCompile>
   </ItemGroup>
