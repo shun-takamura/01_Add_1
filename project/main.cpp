@@ -1,7 +1,7 @@
-#include <cassert>
+#include <cstdlib>
 
 void TestFunction() {
-	assert(0);
+	exit(0);
 }
 
 int main() {
